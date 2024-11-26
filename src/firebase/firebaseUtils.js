@@ -4,7 +4,7 @@ import "firebase/compat/auth";
 
 // Extract environment variables
 const {
-  REACT_APP_API_KEY=REACT_APP_API_KEY,
+  REACT_APP_API_KEY,
   REACT_APP_FIREBASE_API_KEY,
   REACT_APP_FIREBASE_AUTH_DOMAIN,
   REACT_APP_FIREBASE_PROJECT_ID,
