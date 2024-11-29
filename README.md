@@ -193,3 +193,15 @@ REACT_APP_FIREBASE_MEASUREMEMT_ID=REACT_APP_FIREBASE_MEASUREMEMT_ID
 Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) and [Node](https://nodejs.org/en/) installed.
 
 <br/>
+
+## 📝 License
+
+[MIT](https://github.com/Th3Wall/Fakeflix/blob/main/LICENSE)
+
+<br/>
+
+## ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Th3Wall/Fakeflix&type=Date)](https://star-history.com/#Th3Wall/Fakeflix&Date)
+
+<a href="https://www.buymeacoffee.com/th3wall" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="41" width="174" alt="Buy Me A Coffee" /></a>
